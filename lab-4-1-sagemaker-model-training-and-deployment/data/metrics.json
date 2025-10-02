@@ -1,0 +1,18 @@
+{
+  "binary_classification_metrics": {
+    "accuracy": 0.9825,
+    "auc": 1.0,
+    "precision": 1.0,
+    "recall": 0.9524,
+    "confusion_matrix": [
+      [
+        36,
+        0
+      ],
+      [
+        1,
+        20
+      ]
+    ]
+  }
+}
